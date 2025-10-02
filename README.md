@@ -1,5 +1,4 @@
 # odin-recipes
-file and write a brief introduction describing what the current project is and what skills you will 
-have demonstrated once you have completed it. 
-(You can also do this as a self-reflection at the end of the project, 
-which is a good way to review what you have learned.)
+The current project is a recipe website and it has 3 recipes. I have applied
+the HTML concepts which I learned in Odin Project's Foundation Course. These concepts
+include: ordered list, unordered list, paragraphs, headings, images and links.
